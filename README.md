@@ -1,0 +1,1 @@
+Multimodal Retrieval-Augmented Generation (RAG) is an AI architecture that expands traditional text-only RAG by retrieving and understanding multiple data types, such as images, audio, video, and documents. By converting all formats into a shared vector space, it enables true "any-to-any" retrieval—such as using a text query to locate a chart or vice versa
